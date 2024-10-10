@@ -1,0 +1,1 @@
+d=data[data.city==user_answer]
